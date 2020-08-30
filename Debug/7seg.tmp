@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\nevinbonak\Documents\Atmel Studio\7.0\7seg\7seg\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\nevinbonak\Documents\Atmel Studio\7.0\7seg\7seg\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\nevinbonak\Documents\Atmel Studio\7.0\7seg\7seg\Debug\7seg.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>7seg.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>7seg.map</FILE>
+  <FILE>7seg.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>C:\Users\nevinbonak\Documents\Atmel Studio\7.0\7seg\7seg\main.asm</FILE><LINE>14</LINE></Init>
+  <overflow_handler><FILE>C:\Users\nevinbonak\Documents\Atmel Studio\7.0\7seg\7seg\main.asm</FILE><LINE>178</LINE></overflow_handler>
+  <segcodes><FILE>C:\Users\nevinbonak\Documents\Atmel Studio\7.0\7seg\7seg\main.asm</FILE><LINE>183</LINE></segcodes>
+  <main><FILE>C:\Users\nevinbonak\Documents\Atmel Studio\7.0\7seg\7seg\main.asm</FILE><LINE>72</LINE></main>
+  <debounce><FILE>C:\Users\nevinbonak\Documents\Atmel Studio\7.0\7seg\7seg\main.asm</FILE><LINE>165</LINE></debounce>
+  <display><FILE>C:\Users\nevinbonak\Documents\Atmel Studio\7.0\7seg\7seg\main.asm</FILE><LINE>109</LINE></display>
+  <teninc><FILE>C:\Users\nevinbonak\Documents\Atmel Studio\7.0\7seg\7seg\main.asm</FILE><LINE>94</LINE></teninc>
+  <ten><FILE>C:\Users\nevinbonak\Documents\Atmel Studio\7.0\7seg\7seg\main.asm</FILE><LINE>82</LINE></ten>
+  <huninc><FILE>C:\Users\nevinbonak\Documents\Atmel Studio\7.0\7seg\7seg\main.asm</FILE><LINE>99</LINE></huninc>
+  <hun><FILE>C:\Users\nevinbonak\Documents\Atmel Studio\7.0\7seg\7seg\main.asm</FILE><LINE>85</LINE></hun>
+  <thoinc><FILE>C:\Users\nevinbonak\Documents\Atmel Studio\7.0\7seg\7seg\main.asm</FILE><LINE>104</LINE></thoinc>
+  <bitset><FILE>C:\Users\nevinbonak\Documents\Atmel Studio\7.0\7seg\7seg\main.asm</FILE><LINE>173</LINE></bitset>
+ </LABELS>
+</ASSEMBLER_INFO>
